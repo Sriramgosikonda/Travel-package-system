@@ -1,6 +1,4 @@
-# {{TRAVEL PACKAGE SYSTEM}}
 
-{{Description of your project. Provide a brief overview of what the travel package system does and its key features.}}
 # Travel Package System
 
 A simple java-based travel agency system that facilitates the management of travel packages, destinations, activities, and different types of passengers. The system supports Standard, Gold, and Premium passenger classes with varying privileges, providing a versatile solution for organizing and booking travel experiences.
