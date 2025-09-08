@@ -29,7 +29,5 @@
 - [ ] Add payment integration (placeholder)
 - [ ] Test the system
 
-## Deployment
-- [ ] Add Docker configuration (optional)
-- [ ] Update setup instructions in README
-- [x] Create .env file for environment variables
+
+
