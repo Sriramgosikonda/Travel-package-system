@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Travel Package System
 
 This project is a Travel Package System built with the following tech stack:
